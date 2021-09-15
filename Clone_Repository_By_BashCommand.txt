@@ -1,0 +1,12 @@
+
+$  git clone --branch MasterSetup_sanoj2 https://ajayadav@bitbucket.org/indrajeet_sen/bpm.git
+
+$  git clone --branch <BranchName> <Git Url>
+
+
+
+sudo git add web/js/admin/design.js
+sudo git commit -m 'Bug fix'
+sudo git push origin sprint-6
+
+https://github.com/sahani124/Test.git
