@@ -1,4 +1,4 @@
-
+ 
 $  git clone --branch MasterSetup_sanoj2 https://ajayadav@bitbucket.org/indrajeet_sen/bpm.git
 
 $  git clone --branch <BranchName> <Git Url>
@@ -18,4 +18,4 @@ git push origin master --force  //push to git repository
 
 $ git status
 -------------------------------------------------------------------------------------------------
-hello sanoj
+hello sanoj  hello
