@@ -1,0 +1,21 @@
+
+$  git clone --branch MasterSetup_sanoj2 https://ajayadav@bitbucket.org/indrajeet_sen/bpm.git
+
+$  git clone --branch <BranchName> <Git Url>
+
+
+-----------------------------------------------------------for add file to repository--------------------------
+
+$ git add . (for all file) or $ git D:/Backup/Clone/Clone_Repository_By_BashCommand.txt(for single file)//add file
+
+$ git status //check status
+
+$ git commit -m 'your message' //commit 
+
+$ git remote add origin https://github.com/sahani124/Test.git  //define git repository
+
+git push origin master --force  //push to git repository
+
+$ git status
+-------------------------------------------------------------------------------------------------
+hello sanoj
