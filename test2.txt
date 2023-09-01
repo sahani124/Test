@@ -1,0 +1,37 @@
+
+$  git clone --branch MasterSetup_sanoj2 https://ajayadav@bitbucket.org/indrajeet_sen/bpm.git
+
+$  git clone --branch <BranchName> <Git Url>
+
+
+
+sudo git add D:/Backup/Clone/Clone_Repository_By_BashCommand.txt
+sudo git commit -m 'Bug fix'
+sudo git push origin sprint-6
+
+https://github.com/sahani124/Test.git
+
+D:/Backup/Clone/Clone_Repository_By_BashCommand.txt
+
+
+ git push -u origin master
+
+git remote add origin https://github.com/sahani124/Test.git
+
+$ git add .
+
+$ git commit -m 'your message'
+
+$ git remote add origin https://github.com/sahani124/Test.git
+
+ git push origin master --force
+
+
+$ git status
+
+sanoj sahani
+
+sahani123
+https://github.com/codewithMUHILAN
+https://github.com/andiicodes
+https://github.com/codingstella
