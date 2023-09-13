@@ -19,3 +19,9 @@ git push origin master --force  //push to git repository
 $ git status
 -------------------------------------------------------------------------------------------------
 hello sanoj  hello
+
+---To delete untrack file -----
+$ git clean -n    //u can see which file is going to delete
+$ git clean -f   //deleted
+-To revert from unsaging area 
+git checkout -- filename.ext    //u cane reveret from unsaging area
